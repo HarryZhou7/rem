@@ -26,13 +26,22 @@
         doc.addEventListener('DOMContentLoaded', recalc, false);
     })(document, window);
 </script> 
+
  /*你引进的资源*/
+ 
 <title>标题</title> 
 </head>
 <body>
  /*你的代码*/
 </body>
 </html>
+
+
+
+
+
+
+
 
 
 移动端自适应布局进阶版：
